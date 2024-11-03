@@ -2,7 +2,7 @@
 - 👀 I’m interested in biology and coding but im new to coding
 - 🌱 I’m currently learning python on web
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me by email,bano878@gmail.com if you want to talk with me
+- 📫 you can reach me by email,gmail.com
 
 <!---
 Banosss/Banosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
